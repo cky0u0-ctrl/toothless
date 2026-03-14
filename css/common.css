@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+address,
+em,
+i {
+    font-style: normal;
+}
+
+img,
+video {
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+.blind {
+    position: absolute;
+    top: -9999px
+}
+
+body {
+    font-family: "Noto Sans kr", sans-serif;
+    font-size: 16px;
+    color: #111;
+}
