@@ -1,0 +1,8 @@
+.header-wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-menu-lisi {
+    display: flex;
+}
