@@ -6,3 +6,7 @@
 .main-menu-lisi {
     display: flex;
 }
+
+.right-wrap {
+    display: flex;
+}
