@@ -1,10 +1,15 @@
 .header-wrap {
     display: flex;
     justify-content: space-between;
+    background-color: yellowgreen;
 }
 
 .main-menu-lisi {
     display: flex;
+    gap: 80px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .right-wrap {
@@ -17,4 +22,12 @@
 
 .sub-menu {
     display: none;
+}
+
+.state {
+    display: none;
+}
+
+.img5 {
+    width: 40px;
 }
