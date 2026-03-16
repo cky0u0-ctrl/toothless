@@ -10,3 +10,11 @@
 .right-wrap {
     display: flex;
 }
+
+.main-menu-lisi li ul {
+    display: flex;
+}
+
+.sub-menu {
+    display: none;
+}
